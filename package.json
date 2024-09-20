@@ -1,0 +1,13 @@
+{
+  "name": "express05",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.js",
+    "go": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Yu-yun",
+  "license": "ISC",
+  "description": ""
+}
